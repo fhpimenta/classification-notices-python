@@ -1,1 +1,1 @@
-# classification-notices-python
+# Classify notices with Python
